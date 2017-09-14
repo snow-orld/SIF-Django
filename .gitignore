@@ -1,0 +1,9 @@
+.venv
+
+*.sqlite3
+manage.py
+
+*__pycache__
+*migrations
+
+sif_analyzer/analyzer/local
